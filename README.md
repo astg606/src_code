@@ -5,3 +5,5 @@
 - TEST 2
 
 ### Examples
+
+I am the new developer!
